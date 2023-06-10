@@ -16,9 +16,6 @@ _________________________
 [twitter:](https://twitter.com/AppsMaker_)
 
 
-![SearchDelegate in Search Bar Flutter Tutorial]<img src="https://user-images.githubusercontent.com/69330783/228402312-3e6045ee-f484-4cdc-967a-ef7e9074a751.png" width="1200" height="600">
-
-
 
 ![Firebase Email Password Authentication and Google Sign In]
 <img src="https://github.com/brhomapps/Flutter-Web-Firebase-Authentication-and-Google-Sign-In/assets/69330783/de4247ef-e656-4533-ac0d-4899fa6d923b" width="1200" height="600">
