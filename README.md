@@ -18,7 +18,7 @@ _________________________
 
 
 ![Firebase Email Password Authentication and Google Sign In]
-<img src="https://github.com/brhomapps/Flutter-Web-Firebase-Authentication-and-Google-Sign-In/assets/69330783/de4247ef-e656-4533-ac0d-4899fa6d923b" width="1200" height="600">
+<img src="https://github.com/brhomapps/Flutter-Web-Firebase-Authentication-and-Google-Sign-In/assets/69330783/de4247ef-e656-4533-ac0d-4899fa6d923b" width="1400" height="400">
 
 
 
