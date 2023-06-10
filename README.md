@@ -7,7 +7,7 @@ In this tutorial, you'll learn how to implement Email/Password authentication an
 
 _________________________
 
-[my site:](https://brhomapps.blogspot.com/) [facebook:](https://www.facebook.com/appsmaker1) [instagram:](https://www.instagram.com/appsmaker_/) [twitter:](https://twitter.com/AppsMaker_)
+[my site,](https://brhomapps.blogspot.com/)  [facebook,](https://www.facebook.com/appsmaker1) [instagram,](https://www.instagram.com/appsmaker_/) [twitter.](https://twitter.com/AppsMaker_)
 
 
 ![Firebase Email Password Authentication and Google Sign In]
